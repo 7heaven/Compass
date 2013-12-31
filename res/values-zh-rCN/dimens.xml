@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="compass_view_degree_string_size">11sp</dimen>
+    <dimen name="compass_view_direction_string_size">20sp</dimen>
+    <dimen name="compass_view_arrow_size">6dip</dimen>
+    
+</resources>
